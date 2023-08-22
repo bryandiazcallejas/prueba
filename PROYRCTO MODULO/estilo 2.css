@@ -1,0 +1,97 @@
+.header {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 70vh;
+background: url(Screenshot_20230712_202500_Samsung\ Internet.jpg) no-repeat center; 
+background-size: cover;
+
+
+}
+.title  {
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600px;
+    text-transform: uppercase;
+    color:#171717;
+}
+
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid#e91e63;
+    color: #fff;
+    text-decoration: none;
+    background: #e91e63;
+}
+.btn :hover {
+    background: none;
+}
+.content {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sau {
+    padding: 50px 0;
+    background: #303030;
+}
+.contact {
+    padding: 50px 0;
+    background: #303030;
+}
+.about {
+    padding: 50px 0;
+    background: #303030;
+
+}
+.title {
+    color: #fff;
+}
+header {
+    font-family: initial;
+    text-align: center;
+    display: block;
+    color:#fff;
+    
+    
+}
+
+section {
+    display: block;
+    padding: 2opx 20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+header {
+    display: block;
+    padding: 2opx 20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.sau {
+    background: url(imagenes/imagen\ fondo2.jpg) no-repeat center; 
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: #e91e63;
+    display: flex;
+}
+.Nuevo {
+    font-family: initial;
+    text-align: center;
+    display: block;
+    color:#171717;
+
+}
+
+
+    
